@@ -1,5 +1,5 @@
 # Python GUI Application 💻
-Python Graphical User Interface 💻
+Repository consists of all **Graphical User Interface** made on Python🐍.
 
 # Applications 📱
 - Name Generator
