@@ -2,10 +2,10 @@
 Repository consists of all **Graphical User Interface** made on Python🐍.
 
 # Applications 📱
-- Name Generator
-- Simple Chatbot
-- Password Generator
-- Simple Calculator 
+- ### Name Generator - Human name generating software.
+- ### Simple Chatbot - Chatbot used to accept our message and gives reply. 
+- ### Password Generator - Random Password generator application used to get the password.
+- ### Simple Calculator - Basic calculator with all 4 arithmetic functionalities.
 
 
 # Developer ❤
