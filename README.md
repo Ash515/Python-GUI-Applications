@@ -1,12 +1,12 @@
-# Python GUI Application 💻
+# Python GUI Applications 💻
 Repository consists of all **Graphical User Interface** made on Python🐍.
 
-# Applications 📱
-- ### Arithmetic Calculator - Basic calculator with all 4 arithmetic functionalities.
-- ### Name Generator - Human name generating software.
-- ### Notepad - Notepad application used to write any short notes. Done as like a windows notepad application.
-- ### Password Generator - Random Password generator application used to get the password.
-- ### Simple Chatbot - Chatbot used to accept our message and gives reply. 
+## Applications 📱
+- **Arithmetic Calculator** - Basic calculator with all 4 arithmetic functionalities.
+- **Name Generator** - Human name generating software.
+- **Notepad** - Notepad application used to write any short notes. Done as like a windows notepad application.
+- **Password Generator** - Random Password generator application used to get the password.
+- **Simple Chatbot** - Chatbot used to accept our message and gives reply. 
 
 
 
@@ -15,5 +15,5 @@ Repository consists of all **Graphical User Interface** made on Python🐍.
 - MySQL Database
 - Library - Tkinter
 
-# Developer ❤
+## Developer(s) ❤
 [Ashwin Kumar Ramaswamy](https://github.com/Ash515)
